@@ -5,4 +5,5 @@
   - make file
   - multithreads
   - logging file
-  - X round robin X
+  
+X round robin X
